@@ -1,0 +1,61 @@
+product_id,sku,product_name,category,unit_price,unit_cost,margin_pct
+101,SKU-ELE-101,Noise-Canceling Wireless Headphones,Electronics,149.99,65.0,56.66
+102,SKU-ELE-102,Ultra-Slim Power Bank 20000mAh,Electronics,39.99,14.5,63.74
+103,SKU-ELE-103,Mechanical Gaming Keyboard RGB,Electronics,89.99,36.0,60.0
+104,SKU-ELE-104,Ergonomic Bluetooth Mouse,Electronics,49.99,18.0,63.99
+105,SKU-ELE-105,Smart Fitness Watch v4,Electronics,129.99,52.0,60.0
+106,SKU-ELE-106,4K Ultra-HD Webcam with Mic,Electronics,79.99,31.0,61.25
+107,SKU-ELE-107,USB-C Dual Display Docking Station,Electronics,99.99,41.0,59.0
+108,SKU-ELE-108,Smart Home Wi-Fi Security Cam,Electronics,59.99,22.0,63.33
+109,SKU-ELE-109,Portable Bluetooth Speaker IPX7,Electronics,69.99,27.0,61.42
+110,SKU-ELE-110,Fast Wireless Charging Pad 15W,Electronics,24.99,8.5,65.99
+111,SKU-APP-111,Organic Cotton Classic Crewneck Tee,Apparel & Fashion,29.99,9.5,68.32
+112,SKU-APP-112,Performance Stretch Chino Trousers,Apparel & Fashion,64.99,21.0,67.69
+113,SKU-APP-113,Merino Wool Blend Knit Sweater,Apparel & Fashion,89.99,32.0,64.44
+114,SKU-APP-114,Water-Resistant Commuter Jacket,Apparel & Fashion,119.99,44.0,63.33
+115,SKU-APP-115,Seamless High-Rise Yoga Leggings,Apparel & Fashion,49.99,16.0,67.99
+116,SKU-APP-116,Relaxed Fit French Terry Hoodie,Apparel & Fashion,59.99,20.0,66.66
+117,SKU-APP-117,Everyday Canvas Low-Top Sneakers,Apparel & Fashion,74.99,26.0,65.33
+118,SKU-APP-118,All-Weather Polarized Sunglasses,Apparel & Fashion,44.99,12.0,73.33
+119,SKU-APP-119,Leather Minimalist Bifold Wallet,Apparel & Fashion,39.99,13.5,66.24
+120,SKU-APP-120,Durable Canvas Everyday Tote Bag,Apparel & Fashion,34.99,11.0,68.56
+121,SKU-HOM-121,Aroma Ceramic Essential Oil Diffuser,Home & Living,38.99,14.0,64.09
+122,SKU-HOM-122,French Linen Queen Duvet Cover Set,Home & Living,129.99,48.0,63.07
+123,SKU-HOM-123,Insulated Stainless Steel Pour-Over Kettle,Home & Living,54.99,20.0,63.63
+124,SKU-HOM-124,Bamboo Desktop Organizer Caddy,Home & Living,28.99,9.5,67.23
+125,SKU-HOM-125,Ergonomic Memory Foam Lumbar Cushion,Home & Living,42.99,15.0,65.11
+126,SKU-HOM-126,Double-Walled Glass Coffee Mugs (Set of 4),Home & Living,36.99,12.5,66.21
+127,SKU-HOM-127,Hand-Poured Soy Wax Scented Candle,Home & Living,24.99,7.5,69.99
+128,SKU-HOM-128,Minimalist LED Desk Task Lamp,Home & Living,49.99,17.5,64.99
+129,SKU-HOM-129,Cast Iron Pre-Seasoned Skillet 10-inch,Home & Living,44.99,16.5,63.33
+130,SKU-HOM-130,Microfiber Ultra-Absorbent Bath Towels (Pair),Home & Living,34.99,11.0,68.56
+131,SKU-BEA-131,Hydrating Hyaluronic Acid Facial Serum,Beauty & Wellness,32.99,9.0,72.72
+132,SKU-BEA-132,Botanical Nourishing Face Cleanser,Beauty & Wellness,24.99,6.5,73.99
+133,SKU-BEA-133,SPF 50 Daily Mineral Sunscreen Fluid,Beauty & Wellness,28.99,8.0,72.4
+134,SKU-BEA-134,Detoxifying Pink Clay Purifying Mask,Beauty & Wellness,26.99,7.0,74.06
+135,SKU-BEA-135,Organic Cold-Pressed Argan Hair Oil,Beauty & Wellness,29.99,8.5,71.66
+136,SKU-BEA-136,Vitamin C Radiance Glow Daily Cream,Beauty & Wellness,36.99,10.5,71.61
+137,SKU-BEA-137,Ultrasonic Silicone Facial Scrub Brush,Beauty & Wellness,45.99,15.0,67.38
+138,SKU-BEA-138,Natural Shea Butter Body Moisturizer,Beauty & Wellness,22.99,6.0,73.9
+139,SKU-BEA-139,Lavender Sleep & Calming Pillow Mist,Beauty & Wellness,18.99,4.5,76.3
+140,SKU-BEA-140,Vegan Biotin & Keratin Hair Supplements,Beauty & Wellness,34.99,11.0,68.56
+141,SKU-SPO-141,Extra-Thick Non-Slip Eco Yoga Mat,Sports & Outdoors,44.99,15.5,65.55
+142,SKU-SPO-142,Adjustable Dumbbell Hand Weights 20lb,Sports & Outdoors,79.99,32.0,59.99
+143,SKU-SPO-143,Vacuum Insulated Steel Water Bottle 32oz,Sports & Outdoors,29.99,9.0,69.99
+144,SKU-SPO-144,Multi-Resistance Band Workout Set,Sports & Outdoors,24.99,7.0,71.99
+145,SKU-SPO-145,Lightweight Trail Running Hydration Pack,Sports & Outdoors,64.99,22.0,66.15
+146,SKU-SPO-146,Compact Trekking Aluminum Poles (Pair),Sports & Outdoors,49.99,17.0,65.99
+147,SKU-SPO-147,Ultra-Lightweight Microfiber Travel Towel,Sports & Outdoors,19.99,5.5,72.49
+148,SKU-SPO-148,Foam Roller Deep Muscle Massager,Sports & Outdoors,27.99,8.5,69.63
+149,SKU-SPO-149,Emergency Solar Outdoor Power Lantern,Sports & Outdoors,39.99,13.5,66.24
+150,SKU-SPO-150,Speed Cable Skipping Rope with Counter,Sports & Outdoors,16.99,4.5,73.51
+151,SKU-BOO-151,Daily Habit & Goal Tracker Planner (Dated),Books & Productivity,24.99,6.5,73.99
+152,SKU-BOO-152,Hardcover Dot-Grid Bullet Journal 160gsm,Books & Productivity,19.99,5.0,74.99
+153,SKU-BOO-153,Luxury Rollerball Executive Pen Set,Books & Productivity,34.99,10.0,71.42
+154,SKU-BOO-154,Deep Work & Focus Timer Pomodoro Clock,Books & Productivity,29.99,9.0,69.99
+155,SKU-BOO-155,Noise-Dampening Felt Desk Blotter Pad,Books & Productivity,32.99,10.5,68.17
+156,SKU-BOO-156,Aluminum Ergonomic Laptop Elevator Stand,Books & Productivity,44.99,15.0,66.66
+157,SKU-BOO-157,Sticky Notes & Page Flags Indexing Kit,Books & Productivity,12.99,3.0,76.91
+158,SKU-BOO-158,Blue-Light Filtering Reading Glasses,Books & Productivity,27.99,7.5,73.2
+159,SKU-BOO-159,Digital Stylus Pen with Palm Rejection,Books & Productivity,39.99,12.0,69.99
+160,SKU-BOO-160,Magnetic Cable Management Cord Organizer,Books & Productivity,15.99,4.0,74.98

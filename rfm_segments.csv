@@ -1,0 +1,11 @@
+customer_segment,total_customers,pct_customer_base,avg_recency_days,avg_frequency_orders,avg_spend,total_segment_revenue,revenue_share_pct
+Loyal Customers,2800,18.94,74.0,4.1,464.47,1300528.16,24.42
+Champions,1894,12.81,35.4,5.4,642.76,1217383.28,22.86
+Need Attention,1844,12.47,170.1,4.6,495.28,913304.28,17.15
+At Risk (High Value Churn),1618,10.94,300.6,4.3,463.95,750677.61,14.09
+Potential Loyalists,1657,11.21,35.5,2.4,222.07,367969.18,6.91
+About To Sleep,1114,7.53,168.2,1.6,171.73,191307.66,3.59
+Promising,1137,7.69,102.1,1.6,166.91,189775.01,3.56
+Hibernating,653,4.42,332.8,2.0,230.96,150819.71,2.83
+Recent New Customers,1137,7.69,36.6,1.1,109.22,124178.25,2.33
+Lost Customers,933,6.31,276.7,1.7,128.92,120286.74,2.26
